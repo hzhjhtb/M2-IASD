@@ -1,0 +1,266 @@
+Country Name,Country Code,IncomeGroup
+Aruba,ABW,High income
+Africa Eastern and Southern,AFE,
+Afghanistan,AFG,Low income
+Africa Western and Central,AFW,
+Angola,AGO,Lower middle income
+Albania,ALB,Upper middle income
+Andorra,AND,High income
+Arab World,ARB,
+United Arab Emirates,ARE,High income
+Argentina,ARG,Upper middle income
+Armenia,ARM,Upper middle income
+American Samoa,ASM,High income
+Antigua and Barbuda,ATG,High income
+Australia,AUS,High income
+Austria,AUT,High income
+Azerbaijan,AZE,Upper middle income
+Burundi,BDI,Low income
+Belgium,BEL,High income
+Benin,BEN,Lower middle income
+Burkina Faso,BFA,Low income
+Bangladesh,BGD,Lower middle income
+Bulgaria,BGR,Upper middle income
+Bahrain,BHR,High income
+"Bahamas, The",BHS,High income
+Bosnia and Herzegovina,BIH,Upper middle income
+Belarus,BLR,Upper middle income
+Belize,BLZ,Upper middle income
+Bermuda,BMU,High income
+Bolivia,BOL,Lower middle income
+Brazil,BRA,Upper middle income
+Barbados,BRB,High income
+Brunei Darussalam,BRN,High income
+Bhutan,BTN,Lower middle income
+Botswana,BWA,Upper middle income
+Central African Republic,CAF,Low income
+Canada,CAN,High income
+Central Europe and the Baltics,CEB,
+Switzerland,CHE,High income
+Channel Islands,CHI,High income
+Chile,CHL,High income
+China,CHN,Upper middle income
+Côte d'Ivoire,CIV,Lower middle income
+Cameroon,CMR,Lower middle income
+"Congo, Dem. Rep.",COD,Low income
+"Congo, Rep.",COG,Lower middle income
+Colombia,COL,Upper middle income
+Comoros,COM,Lower middle income
+Cabo Verde,CPV,Lower middle income
+Costa Rica,CRI,Upper middle income
+Caribbean small states,CSS,
+Cuba,CUB,Upper middle income
+Curaçao,CUW,High income
+Cayman Islands,CYM,High income
+Cyprus,CYP,High income
+Czechia,CZE,High income
+Germany,DEU,High income
+Djibouti,DJI,Lower middle income
+Dominica,DMA,Upper middle income
+Denmark,DNK,High income
+Dominican Republic,DOM,Upper middle income
+Algeria,DZA,Lower middle income
+East Asia & Pacific (excluding high income),EAP,
+Early-demographic dividend,EAR,
+East Asia & Pacific,EAS,
+Europe & Central Asia (excluding high income),ECA,
+Europe & Central Asia,ECS,
+Ecuador,ECU,Upper middle income
+"Egypt, Arab Rep.",EGY,Lower middle income
+Euro area,EMU,
+Eritrea,ERI,Low income
+Spain,ESP,High income
+Estonia,EST,High income
+Ethiopia,ETH,Low income
+European Union,EUU,
+Fragile and conflict affected situations,FCS,
+Finland,FIN,High income
+Fiji,FJI,Upper middle income
+France,FRA,High income
+Faroe Islands,FRO,High income
+"Micronesia, Fed. Sts.",FSM,Lower middle income
+Gabon,GAB,Upper middle income
+United Kingdom,GBR,High income
+Georgia,GEO,Upper middle income
+Ghana,GHA,Lower middle income
+Gibraltar,GIB,High income
+Guinea,GIN,Lower middle income
+"Gambia, The",GMB,Low income
+Guinea-Bissau,GNB,Low income
+Equatorial Guinea,GNQ,Upper middle income
+Greece,GRC,High income
+Grenada,GRD,Upper middle income
+Greenland,GRL,High income
+Guatemala,GTM,Upper middle income
+Guam,GUM,High income
+Guyana,GUY,High income
+High income,HIC,
+"Hong Kong SAR, China",HKG,High income
+Honduras,HND,Lower middle income
+Heavily indebted poor countries (HIPC),HPC,
+Croatia,HRV,High income
+Haiti,HTI,Lower middle income
+Hungary,HUN,High income
+IBRD only,IBD,
+IDA & IBRD total,IBT,
+IDA total,IDA,
+IDA blend,IDB,
+Indonesia,IDN,Upper middle income
+IDA only,IDX,
+Isle of Man,IMN,High income
+India,IND,Lower middle income
+Ireland,IRL,High income
+"Iran, Islamic Rep.",IRN,Lower middle income
+Iraq,IRQ,Upper middle income
+Iceland,ISL,High income
+Israel,ISR,High income
+Italy,ITA,High income
+Jamaica,JAM,Upper middle income
+Jordan,JOR,Lower middle income
+Japan,JPN,High income
+Kazakhstan,KAZ,Upper middle income
+Kenya,KEN,Lower middle income
+Kyrgyz Republic,KGZ,Lower middle income
+Cambodia,KHM,Lower middle income
+Kiribati,KIR,Lower middle income
+St. Kitts and Nevis,KNA,High income
+"Korea, Rep.",KOR,High income
+Kuwait,KWT,High income
+Latin America & Caribbean (excluding high income),LAC,
+Lao PDR,LAO,Lower middle income
+Lebanon,LBN,Lower middle income
+Liberia,LBR,Low income
+Libya,LBY,Upper middle income
+St. Lucia,LCA,Upper middle income
+Latin America & Caribbean,LCN,
+Least developed countries: UN classification,LDC,
+Low income,LIC,
+Liechtenstein,LIE,High income
+Sri Lanka,LKA,Lower middle income
+Lower middle income,LMC,
+Low & middle income,LMY,
+Lesotho,LSO,Lower middle income
+Late-demographic dividend,LTE,
+Lithuania,LTU,High income
+Luxembourg,LUX,High income
+Latvia,LVA,High income
+"Macao SAR, China",MAC,High income
+St. Martin (French part),MAF,High income
+Morocco,MAR,Lower middle income
+Monaco,MCO,High income
+Moldova,MDA,Upper middle income
+Madagascar,MDG,Low income
+Maldives,MDV,Upper middle income
+Middle East & North Africa,MEA,
+Mexico,MEX,Upper middle income
+Marshall Islands,MHL,Upper middle income
+Middle income,MIC,
+North Macedonia,MKD,Upper middle income
+Mali,MLI,Low income
+Malta,MLT,High income
+Myanmar,MMR,Lower middle income
+Middle East & North Africa (excluding high income),MNA,
+Montenegro,MNE,Upper middle income
+Mongolia,MNG,Lower middle income
+Northern Mariana Islands,MNP,High income
+Mozambique,MOZ,Low income
+Mauritania,MRT,Lower middle income
+Mauritius,MUS,Upper middle income
+Malawi,MWI,Low income
+Malaysia,MYS,Upper middle income
+North America,NAC,
+Namibia,NAM,Upper middle income
+New Caledonia,NCL,High income
+Niger,NER,Low income
+Nigeria,NGA,Lower middle income
+Nicaragua,NIC,Lower middle income
+Netherlands,NLD,High income
+Norway,NOR,High income
+Nepal,NPL,Lower middle income
+Nauru,NRU,High income
+New Zealand,NZL,High income
+OECD members,OED,
+Oman,OMN,High income
+Other small states,OSS,
+Pakistan,PAK,Lower middle income
+Panama,PAN,High income
+Peru,PER,Upper middle income
+Philippines,PHL,Lower middle income
+Palau,PLW,Upper middle income
+Papua New Guinea,PNG,Lower middle income
+Poland,POL,High income
+Pre-demographic dividend,PRE,
+Puerto Rico,PRI,High income
+"Korea, Dem. People's Rep.",PRK,Low income
+Portugal,PRT,High income
+Paraguay,PRY,Upper middle income
+West Bank and Gaza,PSE,Upper middle income
+Pacific island small states,PSS,
+Post-demographic dividend,PST,
+French Polynesia,PYF,High income
+Qatar,QAT,High income
+Romania,ROU,High income
+Russian Federation,RUS,Upper middle income
+Rwanda,RWA,Low income
+South Asia,SAS,
+Saudi Arabia,SAU,High income
+Sudan,SDN,Low income
+Senegal,SEN,Lower middle income
+Singapore,SGP,High income
+Solomon Islands,SLB,Lower middle income
+Sierra Leone,SLE,Low income
+El Salvador,SLV,Upper middle income
+San Marino,SMR,High income
+Somalia,SOM,Low income
+Serbia,SRB,Upper middle income
+Sub-Saharan Africa (excluding high income),SSA,
+South Sudan,SSD,Low income
+Sub-Saharan Africa,SSF,
+Small states,SST,
+São Tomé and Principe,STP,Lower middle income
+Suriname,SUR,Upper middle income
+Slovak Republic,SVK,High income
+Slovenia,SVN,High income
+Sweden,SWE,High income
+Eswatini,SWZ,Lower middle income
+Sint Maarten (Dutch part),SXM,High income
+Seychelles,SYC,High income
+Syrian Arab Republic,SYR,Low income
+Turks and Caicos Islands,TCA,High income
+Chad,TCD,Low income
+East Asia & Pacific (IDA & IBRD),TEA,
+Europe & Central Asia (IDA & IBRD),TEC,
+Togo,TGO,Low income
+Thailand,THA,Upper middle income
+Tajikistan,TJK,Lower middle income
+Turkmenistan,TKM,Upper middle income
+Latin America & Caribbean (IDA & IBRD),TLA,
+Timor-Leste,TLS,Lower middle income
+Middle East & North Africa (IDA & IBRD),TMN,
+Tonga,TON,Upper middle income
+South Asia (IDA & IBRD),TSA,
+Sub-Saharan Africa (IDA & IBRD),TSS,
+Trinidad and Tobago,TTO,High income
+Tunisia,TUN,Lower middle income
+Türkiye,TUR,Upper middle income
+Tuvalu,TUV,Upper middle income
+Tanzania,TZA,Lower middle income
+Uganda,UGA,Low income
+Ukraine,UKR,Lower middle income
+Upper middle income,UMC,
+Uruguay,URY,High income
+United States,USA,High income
+Uzbekistan,UZB,Lower middle income
+St. Vincent and the Grenadines,VCT,Upper middle income
+"Venezuela, RB",VEN,
+British Virgin Islands,VGB,High income
+Virgin Islands (U.S.),VIR,High income
+Viet Nam,VNM,Lower middle income
+Vanuatu,VUT,Lower middle income
+World,WLD,
+Samoa,WSM,Lower middle income
+Kosovo,XKX,Upper middle income
+"Yemen, Rep.",YEM,Low income
+South Africa,ZAF,Upper middle income
+Zambia,ZMB,Lower middle income
+Zimbabwe,ZWE,Lower middle income
